@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 name                     : "Alvin Kwon"
-description              : "An amazing website."
+description              : "Alvin's Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am doing data analysis, system trading as my job and personally interested in Web programming."
+  name             : "Alvin Kwon"
+  avatar           : "/assets/images/main_profile.png"
+  bio              : "I love to observe people and society :)"
   location         : "Seoul, South Korea"
   email            :
   links:
