@@ -107,8 +107,8 @@ analytics:
 # Site Author
 author:
   name             : "Alvin Kwon"
-  avatar           : "/assets/images/main_profile.png"
-  bio              : "I love to observe people and society :)"
+  avatar           : "/assets/images/main_profile.jpg"
+  bio              : "I love to observe people and society."
   location         : "Seoul, South Korea"
   email            :
   links:
